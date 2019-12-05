@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"notfs"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2018_03_27_081549_create_misgana_table.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2018_03_22_085631_Bank.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Providers/AppServiceProvider.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2018_03_27_080452_create_misgana_table--create=misgana.php",
+		"/C/Users/mesh/Desktop/lara_yeast/public/user.html",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/addcar.blade.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/NewvehicleController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/assets/ASSETS/css/paper-dashboard.css",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/admin/dashController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/dashboard.blade.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/layouts/dash.blade.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/home.blade.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/newcar.blade.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/layouts/app.blade.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/admin/addcarController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/admin/addcar.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/Auth/LoginController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/assets/ASSETS/ASSETS.vue",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/assets/ASSETS/css/themify-icons.css",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/assets/ASSETS/css/animate.min.css",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/assets/ASSETS/css/bootstrap.min.css",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/assets/ASSETS/css/demo.css",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/welcome.blade.html",
+		"/C/Users/mesh/Desktop/lara_yeast/storage/framework/views/de5590a0a1d6afdd29b465a266f4e5bfddd628cf.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/admin/dashController",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/admin/dashboardController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/dashboardController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2018_03_20_120459_create_addvehicle_table.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/auth/login.blade.php",
+		"/C/Users/mesh/Desktop/lara_yeast/config/database.php",
+		"/C/Users/mesh/Desktop/lara_yeast/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/pagesController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2018_03_20_071855_addVehicle.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2018_03_20_114641_create_cards_table--create==cards.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2018_03_20_090523_create_cards_table--create=cards.php",
+		"/C/Users/mesh/Desktop/lara_yeast/database/migrations/2018_03_20_114048_create_cards_table--create=cards.php",
+		"/C/Users/mesh/Desktop/lara_yeast/.env",
+		"/C/Users/mesh/Desktop/lara_yeast/.env.example",
+		"/C/Users/mesh/Desktop/lara_yeast/.gitattributes",
+		"/C/Users/mesh/Desktop/lara_yeast/.gitignore",
+		"/C/Users/mesh/Desktop/lara_yeast/artisan",
+		"/C/Users/mesh/Desktop/lara_yeast/composer.json",
+		"/C/Users/mesh/Desktop/lara_yeast/composer.lock",
+		"/C/Users/mesh/Desktop/lara_yeast/gulpfile.js",
+		"/C/Users/mesh/Desktop/lara_yeast/package.json",
+		"/C/Users/mesh/Desktop/lara_yeast/phpunit.xml",
+		"/C/Users/mesh/Desktop/lara_yeast/readme.md",
+		"/C/Users/mesh/Desktop/lara_yeast/yarn.lock",
+		"/C/Users/mesh/Desktop/lara_yeast/server.php",
+		"/C/xampp/htdocs/shola/php/classes/notify.class.php",
+		"/C/xampp/htdocs/shola/php/pages/header.html.php",
+		"/C/Users/mesh/Downloads/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2/vehicle.html",
+		"/C/Users/mesh/Downloads/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2/dashboard.html",
+		"/C/xampp/htdocs/myProject/home.php",
+		"/C/Users/mesh/Desktop/Dashboard.html",
+		"/C/Users/mesh/Desktop/vechile.html",
+		"/C/xampp/htdocs/myProject/paper-dashboard-free-v1.1.2/pages/user.html",
+		"/C/xampp/htdocs/shola/php/pages/dashboard/user.html.php",
+		"/C/Users/mesh/Downloads/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2/user.html",
+		"/C/xampp/htdocs/shola/php/pages/dashboard/table.html.php",
+		"/C/Users/mesh/Downloads/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2/icons.html",
+		"/C/Users/mesh/Downloads/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2/typography.html",
+		"/C/Users/mesh/Downloads/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2/table.html",
+		"/C/Users/mesh/Desktop/Zoho Creator - Fleet Hub_files/zswidget.css",
+		"/C/Users/mesh/Downloads/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2/notifications.html",
+		"/C/Users/mesh/Downloads/paper-dashboard-free-v1.1.2/paper-dashboard-free-v1.1.2/Assignment History.html",
+		"/C/Users/mesh/Desktop/Zoho Creator - Fleet Hub1.html",
+		"/C/xampp/htdocs/shola/php/authenticate/assets/css/Pretty-Registration-Form.css",
+		"/C/xampp/htdocs/shola/php/authenticate/assets/bootstrap/css/bootstrap.min.css",
+		"/C/Users/mesh/Desktop/try.html",
+		"/C/Users/mesh/Desktop/New folder (3)/log1.html",
+		"/C/xampp/htdocs/myProject/myProject.sql",
+		"/C/Users/mesh/Desktop/custom.css",
+		"/C/xampp/htdocs/shola/php/notification/tryReturn.php",
+		"/C/Users/mesh/Desktop/admin/index2.html",
+		"/C/Users/mesh/Desktop/Register - www.2merkato.com_files/css-48181.css",
+		"/C/Users/mesh/Desktop/Grade Report - Addis Ababa University_files/aauCustom.css",
+		"/C/Users/mesh/Desktop/New folder (3)/tt.css",
+		"/C/xampp/htdocs/shola/css/light-bootstrap-dashboard.css",
+		"/C/Users/mesh/Desktop/lara_yeast/storage/logs/laravel.log",
+		"/C/Users/mesh/Desktop/tt.css",
+		"/C/Users/mesh/Desktop/html/cs.css",
+		"/C/Users/mesh/Desktop/html/login.html",
+		"/C/Users/mesh/Desktop/log1.html",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/index.html",
+		"/C/xampp/htdocs/shola/php/notification/tryNotif.php",
+		"/C/xampp/htdocs/shola/php/pages/dashboard/notifications.html.php",
+		"/D/AdminLTE-2.4.2/index2.html",
+		"/C/Users/mesh/Desktop/New folder (3)/index.html",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/Auth/dashboardController.html",
+		"/C/Users/mesh/Desktop/New folder (3)/forget.html",
+		"/C/Users/mesh/Desktop/lara_yeast/config/mail.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/Auth/SignIn.html.php",
+		"/C/Users/mesh/Desktop/lara_yeast/routes/web.php",
+		"/C/Users/mesh/Desktop/lara_yeast/config/admin.html",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/pageController.php",
+		"/C/Users/mesh/Desktop/lara_yeast/app/Http/Controllers/Controller.php",
+		"/C/Users/mesh/Desktop/lara_yeast/resources/views/welcome.blade.php",
+		"/C/Users/mesh/Desktop/New folder (3)/log.html",
+		"/C/xampp/htdocs/shola/php/discount/create_table.php",
+		"/C/xampp/htdocs/shola/php/classes/item_info.class.php",
+		"/C/xampp/htdocs/shola/php/classes/wish_list.class.php",
+		"/C/xampp/htdocs/shola/php/classes/item.class.php",
+		"/C/xampp/htdocs/shola/php/classes/return_policy.class.php",
+		"/C/xampp/htdocs/shola/php/classes/tryindex.php",
+		"/C/xampp/htdocs/shola/php/classes/index.php",
+		"/C/Users/mesh/Downloads/Telegram Desktop/notify.class.php",
+		"/C/Users/mesh/Downloads/Telegram Desktop/tryNotif.php",
+		"/C/xampp/htdocs/shola/notify.class.php",
+		"/C/xampp/htdocs/shola/php/includes/db_inc.php",
+		"/C/xampp/htdocs/shola/tryNotify.php",
+		"/C/Users/mesh/Desktop/java.html",
+		"/C/Users/mesh/Documents/Atmel Studio/7.0/GccApplication1/GccApplication1/main.c",
+		"/C/xampp/htdocs/shola/php/includes/bb.php",
+		"/C/xampp/htdocs/shola/php/pages/cancel.php",
+		"/C/xampp/htdocs/shola/php/includes/db_inc1.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "composer.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"config\\database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 537.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
